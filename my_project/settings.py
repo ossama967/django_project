@@ -27,6 +27,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['8000-ossama967-djangoproject-iv2wwalo5jn.ws-eu108.gitpod.io','.herokuapp.com', 'my-project-hello-world67-6ace87373ac1.herokuapp.com']
 
+https://my-project-hello-world67-6ace87373ac1.herokuapp.com/hello
 
 # Application definition
 
